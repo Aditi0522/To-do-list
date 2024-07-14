@@ -180,12 +180,4 @@ z=[]
 starting()
 
 #first check completed
-#then come back to problem of creatinf more than one to do list
-
-
-  
-
-
-  
-    
-
+#then come back to problem of creating more than one to do list.
